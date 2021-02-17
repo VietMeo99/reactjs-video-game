@@ -2,7 +2,7 @@
 
 ### React + Redux + Firebase + RAWG API (https://api.rawg.io/docs/).
 
-#### Live demo [here](https://vietmeo99.github.io/vdev-video-game/#/)
+#### Live demo [here](https://vietmeo99.github.io/video-game/#/)
 
 #### V_Dev
 

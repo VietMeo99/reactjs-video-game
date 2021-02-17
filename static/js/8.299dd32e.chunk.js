@@ -1,0 +1,2 @@
+(this["webpackJsonpvideo-game"]=this["webpackJsonpvideo-game"]||[]).push([[8],{165:function(e,s,n){"use strict";n.r(s);n(1);var t=n(161),c=n(2);s.default=function(){return Object(c.jsxs)("div",{className:"not-found",children:[Object(c.jsxs)("div",{className:"not-found__404",children:[Object(c.jsx)("span",{children:"4"}),Object(c.jsx)(t.a,{}),Object(c.jsx)("span",{children:"4"})]}),Object(c.jsx)("span",{className:"not-found__title",children:"Page not found"})]})}}}]);
+//# sourceMappingURL=8.299dd32e.chunk.js.map

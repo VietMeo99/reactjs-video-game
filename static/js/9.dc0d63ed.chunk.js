@@ -1,0 +1,2 @@
+(this["webpackJsonpvideo-game"]=this["webpackJsonpvideo-game"]||[]).push([[9],{163:function(e,t,c){"use strict";c.r(t);var i=c(3),n=c(53),s=c(54),a=c(74),b=c(97);t.default=Object(s.b)((function(e){return Object(i.a)({},Object(b.h)(e))}),{signUp:a.g})(n.g)}}]);
+//# sourceMappingURL=9.dc0d63ed.chunk.js.map

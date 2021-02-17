@@ -1,3 +1,18 @@
+# V_Dev-video-game
+
+### React + Redux + Firebase + RAWG API (https://api.rawg.io/docs/).
+
+#### Live demo [here](https://vietmeo99.github.io/vdev-video-game/#/)
+
+#### V_Dev
+
+#### Usage
+
+1. `yarn `
+2. `yarn start` or `npm run build` for production build
+<!-- 2. `npm run start` or `npm run build` for production build -->
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

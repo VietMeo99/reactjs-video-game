@@ -1,0 +1,2 @@
+(this["webpackJsonpvideo-game"]=this["webpackJsonpvideo-game"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var i=n(0),c=n.n(i),o=n(3),r=n.n(o),d=n(1),s=function(){return Object(d.jsx)("div",{children:"App Video"})},u=function(e){e&&e instanceof Function&&n.e(3).then(n.bind(null,10)).then((function(t){var n=t.getCLS,i=t.getFID,c=t.getFCP,o=t.getLCP,r=t.getTTFB;n(e),i(e),c(e),o(e),r(e)}))};r.a.render(Object(d.jsx)(c.a.StrictMode,{children:Object(d.jsx)(s,{})}),document.getElementById("root")),u()}},[[9,1,2]]]);
+//# sourceMappingURL=main.5c9a2a63.chunk.js.map
